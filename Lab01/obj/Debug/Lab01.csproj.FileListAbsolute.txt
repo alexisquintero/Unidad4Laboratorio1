@@ -1,0 +1,6 @@
+C:\Proyectos\Unidades\Unidad04\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\Proyectos\Unidades\Unidad04\Lab01\Lab01\bin\Debug\agenda.txt
+C:\Proyectos\Unidades\Unidad04\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\Proyectos\Unidades\Unidad04\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\Proyectos\Unidades\Unidad04\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\Proyectos\Unidades\Unidad04\Lab01\Lab01\obj\Debug\Lab01.pdb
